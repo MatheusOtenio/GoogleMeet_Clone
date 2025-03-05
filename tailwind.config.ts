@@ -40,7 +40,7 @@ const config = {
           1: '#452c63',
         },
         yellow: {
-          1: '#FEBE10',
+          1: '#8B8000',
         },
       },
       keyframes: {
